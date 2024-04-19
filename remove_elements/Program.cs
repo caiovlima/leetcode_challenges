@@ -2,12 +2,12 @@
 
 // https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150
 class Program
-{
+{    
     static void Main(string[] args)
     {
         int[] nums1 = { 1, 2, 3, 0, 0, 0 };
         int valof = 0;
-
+        List<int> nList = new List<int>();
         Console.WriteLine(RemoveElement(nums1, valof));
     }
 
