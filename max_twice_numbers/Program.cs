@@ -4,7 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int[] nums = { 0, 0, 1, 1, 1, 1, 2, 3, 3 };
+        Console.WriteLine(RemoveDuplicates());
     }
 
     public int RemoveDuplicates(int[] nums)

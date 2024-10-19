@@ -11,20 +11,21 @@ class Program
         Console.WriteLine(RemoveElement(nums1, valof));
     }
 
-    public int RemoveElement(int[] nums, int val)
-    {
-        int k = 0; // Contador para elementos diferentes de val
+    public static int RemoveElement(int[] nums, int val) {
+        int k = 0; //ponteiro controlador
 
-        // Percorre o array nums
-        foreach (var num in nums.ToList())
+        // 1 - percorre o array
+        foreach (var n in nums)
         {
-            if (num != val)
+            if (n != val)
             {
-                nums[k++] = num; // Move o elemento diferente de val para a posição k
+                // 2 - se o valor do elemento é diferente de val, então
+                // o índice percorrido vai receber o valor de n 
+                nums[k] = n;
+                k++;
             }
         }
 
-        return k; // Retorna o número de elementos diferentes de val
-
+        return k;
     }
 }

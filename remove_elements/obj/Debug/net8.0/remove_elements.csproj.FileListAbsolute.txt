@@ -1,0 +1,15 @@
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\bin\Debug\net8.0\remove_elements.exe
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\bin\Debug\net8.0\remove_elements.deps.json
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\bin\Debug\net8.0\remove_elements.runtimeconfig.json
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\bin\Debug\net8.0\remove_elements.dll
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\bin\Debug\net8.0\remove_elements.pdb
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.AssemblyInfoInputs.cache
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.AssemblyInfo.cs
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.sourcelink.json
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.dll
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\refint\remove_elements.dll
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.pdb
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\remove_elements.genruntimeconfig.cache
+C:\Users\User\Documents\dev\leetcode_challenges\remove_elements\obj\Debug\net8.0\ref\remove_elements.dll
